@@ -1,2 +1,2 @@
 nome = ('olá tricolores')
-write (nome)
+st.write (nome)
